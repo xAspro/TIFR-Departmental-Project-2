@@ -1,0 +1,1 @@
+{Indeterminate, 4*Fp - (277*et^2*(Fp + I*Fx))/12 + (4*I)*Fx, et*(9*Fp + (9*I)*Fx), et^2*(16*Fp + (16*I)*Fx)}
